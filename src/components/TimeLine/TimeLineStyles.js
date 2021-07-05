@@ -83,7 +83,7 @@ export const CarouselItemTitle = styled.h4`
   }
   
   @media ${props => props.theme.breakpoints.sm} {
-    font-size: 16px;
+    font-size: 12px;
     line-height: 24px;
   }
 `
