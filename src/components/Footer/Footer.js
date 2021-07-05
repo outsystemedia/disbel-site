@@ -23,7 +23,7 @@ const Footer = () => {
           <Slogan></Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://google.com">
+          <SocialIcons href="https://api.whatsapp.com/send?phone=5511981011181&text=Ol%C3%A1%20Marcos,%20me%20interesso%20pelos%20servi%C3%A7os%20de%20representa%C3%A7%C3%A3o%20da%20Disbel,%20podemos%20conversar?">
             <AiOutlineWechat size="3rem" />
           </SocialIcons>
           {/*<SocialIcons href="https://google.com">
